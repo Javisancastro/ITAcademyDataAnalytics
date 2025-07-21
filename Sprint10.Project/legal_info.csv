@@ -1,0 +1,6 @@
+﻿country_id,country,yearly_working_days,yearly_bank_holidays,yearly_annual_leave,weekly_working_hours
+DE,Germany,222,13,25,39
+ES,Spain,224,14,22,39
+IT,Italy,228,12,20,39
+FR,France,219,11,30,35
+IE,Ireland,232,10,18,39

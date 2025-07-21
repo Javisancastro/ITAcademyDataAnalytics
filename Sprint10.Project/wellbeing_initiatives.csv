@@ -1,0 +1,16 @@
+﻿product_ID,product_name,price_monthly,country_wellbeing_id,currency_product,reduction_leave
+W001,wellbeing_app,3,DE,EUR,10%
+W002,wellbeing_app,3,FR,EUR,10%
+W003,wellbeing_app,3,IE,EUR,10%
+W004,wellbeing_app,2.5,ES,EUR,10%
+W005,wellbeing_app,2.5,IT,EUR,10%
+P201,Psychologist_2_sessions,120,DE,EUR,25%
+P202,Psychologist_2_sessions,120,FR,EUR,25%
+P203,Psychologist_2_sessions,120,IE,EUR,25%
+P204,Psychologist_2_sessions,100,ES,EUR,25%
+P205,Psychologist_2_sessions,100,IT,EUR,25%
+P401,Psychologist_4_sessions,200,DE,EUR,50%
+P402,Psychologist_4_sessions,200,FR,EUR,50%
+P403,Psychologist_4_sessions,200,IE,EUR,50%
+P404,Psychologist_4_sessions,180,ES,EUR,50%
+P405,Psychologist_4_sessions,180,IT,EUR,50%
